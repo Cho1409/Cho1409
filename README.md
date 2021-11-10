@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Cho1409
-- 👀 I’m interested in Observability
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Observability
-- 📫 How to reach me Telegram @Cho1409
+![GIF demo](https://media3.giphy.com/media/pbtzFxzCa0B27GT8xh/giphy.gif)
 
 <!---
 Cho1409/Cho1409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
